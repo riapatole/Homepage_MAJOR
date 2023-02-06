@@ -16,7 +16,7 @@ const featuresData = [
     text: 'Angel investors are highly beneficial for startups who need access to funding in the early stages of growth.',
   },
   {
-    title: 'Really boy law county',
+    title: 'Ved is mad ',
     text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
   },
 ];
